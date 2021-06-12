@@ -1,6 +1,10 @@
-# Comandos
+# Comandos NestJS CLI
 
 Ten en mente que cuando utilizamos el nest g (Generardor o Generate) sirve para crear lo que necesitamos y conjunto a sus flags(Banderas ej: --no-spec).
+
+## Instalacion NestJS CLI
+
+`npm install -g @nestjs/cli`
 
 ### Crear Proyecto
 `nest new nombreCarpeta`
