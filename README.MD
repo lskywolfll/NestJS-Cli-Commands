@@ -18,3 +18,7 @@ Ten en mente que cuando utilizamos el nest g (Generardor o Generate) sirve para 
 ### Crear Servicio
 
 `nest g service nombre`
+
+### Omitir especificaciones al crear module,controller y service
+
+`ej: nest g controller --no-spec`
